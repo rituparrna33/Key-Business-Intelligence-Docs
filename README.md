@@ -1,11 +1,6 @@
-Here are some questions BI professionals ask in order to successfully complete this document:
+Key Business Intelligence Documents
+This repository contains templates and best practices for the three essential BI documents every analyst should master:
 
-What questions must be answered before starting this project?
-
-What does the BI team need to know before starting this project?
-
-What are the questions that must be answered/problems that must be solved by this project?
-
-What datasets are considered important to this project?
-
-Who should have access to the dashboard? Will the entire dashboard be visible to all stakeholders?
+Stakeholder Requirements Document
+Project Requirements Document
+Strategy Document
