@@ -6,3 +6,6 @@ This repository contains templates and best practices for the three essential BI
 1. Stakeholder Requirements Document
 2. Project Requirements Document
 3. Strategy Document
+
+
+I found these resources in the Google Business Intellignece Certificate course and already implemented some of these in my daily workflows.
